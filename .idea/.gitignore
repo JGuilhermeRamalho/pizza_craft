@@ -1,0 +1,29 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.macos/
+
+# IntelliJ/Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+**/android/app/debug.keystore
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
+*.class
